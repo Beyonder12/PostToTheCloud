@@ -1,0 +1,19 @@
+{
+  "name": "posttothecloud",
+  "version": "1.0.0",
+  "description": "post your data to the cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beyonder12/PostToTheCloud.git"
+  },
+  "author": "fajri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Beyonder12/PostToTheCloud/issues"
+  },
+  "homepage": "https://github.com/Beyonder12/PostToTheCloud#readme"
+}
