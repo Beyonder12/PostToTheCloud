@@ -1,0 +1,14 @@
+access.log
+servicelogs.json
+logs.json
+.DS_Store
+.idea
+.env
+.vscode/
+
+*.log
+
+*.txt
+
+myCodes/
+node_modules/
